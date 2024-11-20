@@ -1,8 +1,6 @@
 import sys
-
 # Initialize an empty to-do list
 todo_list = []
-
 # Function to display the to-do list
 def display_todo_list():
     if not todo_list:
