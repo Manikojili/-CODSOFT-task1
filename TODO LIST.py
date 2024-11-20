@@ -51,8 +51,6 @@ def delete_task():
             print("Invalid task number!\n")
     except ValueError:
         print("Please enter a valid number!\n")
-
-# Function to display the menu
 def display_menu():
     print("To-Do List Menu:")
     print("1. View To-Do List")
